@@ -4,7 +4,7 @@ pushd packages/app
 
 # No cache
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "text/html" \
@@ -12,7 +12,7 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --exclude "*" \
   --include "*.html"
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "application/manifest+json" \
@@ -20,19 +20,19 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --exclude "*" \
   --include "*.webmanifest"
 
-aws s3 cp dist/service-worker.js s3://app.medplum.com/ \
+aws s3 cp dist/service-worker.js s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --content-type "application/javascript" \
   --cache-control "no-cache"
 
-aws s3 cp dist/service-worker.js.map s3://app.medplum.com/ \
+aws s3 cp dist/service-worker.js.map s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --content-type "application/json" \
   --cache-control "no-cache"
 
 # Cache forever
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "text/css" \
@@ -40,7 +40,7 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --exclude "*" \
   --include "*.css"
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "application/javascript" \
@@ -49,7 +49,7 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --include "*.js" \
   --exclude "service-worker.js"
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "application/json" \
@@ -59,7 +59,7 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --include "*.js.map" \
   --exclude "service-worker.js.map"
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "text/plain" \
@@ -67,7 +67,7 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --exclude "*" \
   --include "*.txt"
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "image/x-icon" \
@@ -75,7 +75,7 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --exclude "*" \
   --include "*.ico"
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "image/png" \
@@ -83,7 +83,7 @@ aws s3 cp dist/ s3://app.medplum.com/ \
   --exclude "*" \
   --include "*.png"
 
-aws s3 cp dist/ s3://app.medplum.com/ \
+aws s3 cp dist/ s3://app.grabmd.aws.msd3.io/ \
   --region us-east-1 \
   --recursive \
   --content-type "image/svg+xml" \

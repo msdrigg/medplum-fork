@@ -1,0 +1,3 @@
+export MEDPLUM_BASE_URL=https://api.grabmd.aws.msd3.io/
+export GOOGLE_CLIENT_ID=212735332693-cq8180cpfac1f5poiealuvnn2b1odj6j.apps.googleusercontent.com
+export RECAPTCHA_SITE_KEY=6LcTCjYjAAAAANJ38sNDu6QTwTaj7KPyAdoJYz4t

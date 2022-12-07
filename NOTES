@@ -1,0 +1,3 @@
+# CHANGES FROM TUTORIAL
+
+- Don't create a signing key for cloudfront. Instead wait for the cdk to create its own signing key and get the key id from the created signing key

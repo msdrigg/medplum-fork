@@ -10,14 +10,14 @@
   "appBaseUrl": "http://localhost:3000/",
   "binaryStorage": "file:./binary/",
   "storageBaseUrl": "http://localhost:8103/storage/",
-  "signingKeyId": "my-key-id",
-  "signingKey": "-----BEGIN RSA PRIVATE KEY-----\nProc-Type: 4,ENCRYPTED\nDEK-Info: DES-EDE3-CBC,4C2E1B45FFF24610\n\n0SOZn3P0Bd9lZgv2eSWWLMQ4JqxhbJ+dWM+V1TtSwqxe3VP24z4bys5VRpmsEpqn\nROKxdXCeqAbYsLo8V9dOQvwaxo2TTWFgUFj7sQYklyr1g5S9+KCp+1B/5E7UgNDd\nhXA2u4uhz6Bck0mTPwoy3oHjNUaNBZilMdwiR3qeiGYC0DyX69+IJgwFUTt2a1jc\nU5aUyellGYa47QRZcePgyk7Cl4FcBW9YA0pS4rNpO4wNVN6GGuZti4c0Y3PHXSRE\nDse95ZN9iWBtufjpjk4s8MX0rzqMWcjbAhTs2N5YBgKsv2czm5YMdXsYH6tGL7a1\nPyNia0r1AnHAD3pK+vzaZGaLrvubZikrt7dr+Tp1U45b2YaZlMMaXwGU6WEK7kwr\n4sbl9hqQf/+oqBAdyJIgxIhFumK+ukUIlCV+b/XUuoatDXD127JwEyEM78Nzg5Bc\n/bKGEo9uehXpuIi0jp1BtegUIkfoV543PZZgslGVdzq0vXOir+PiHJBLlbWXXSAb\nEWKOQW2/bZ8JIHhi3Ag7KDlTVF1XetJ2TqYOOP9izfMp4lJ2vLtkH7P+jEKG8z6b\nurnXYkDWYEbzhG1frEssVQN0GP3wdyEK+n6LBCuj52Uje/M7LwahPX6dJRYPOpL9\nbApSNNJLahRRQREHp1wqEWism3r4+yRa4ha/BGc4dfKTsUtJEiHqdWvDzomN5C6A\nC7u3zjUv3ZZLoCLCbBUsiVdlJZJ5u/ymky5LKVbsscmZj93HE7/FL56I17bmTlDo\npvkJWk9SmVXvs3lwMMBRbykj974ZWEMw9EjCoP9rDJ0UNsy2kVRFfXoPMKL5S01D\niBRVSZB7k7qJofGtlBpDfooHOw4uAJ/6A0l8vpOm/Vpk8tdiRLL/RuzEKz5G3ltm\nrXPn83avfNc5+EvaM8IIKyPTvHegE5XszGK3NNlzUO1Ydze/xQPhdrp4QYFzJOuB\nXVIazLeXSJ5EjJ1ylWAWgNzsx+42NWeA2CZAZz+IJFw6C2iHEB8f8Nw6iJmFfm3I\nWsrvCRbuwIsW9fjtHTpOCCpxXu5EcvN5BKwFXeBatB7xqR6EnPbk6xDxZdroEKhH\nEZU4PlHu+BwTKKCwa4Ynwn1Qpu453qgNzaxgHLbdFipW5/AkreNWK5Il+5Bl8G90\no/MhO66eBXv3JbOtMUAqs9+Qyl5K1TaNqbStWmsiq+36Niz4ZRg7L/7W6zjG/hTH\npignoDyJYPjFFQ/sTsTUv0oKVI6KIYFlIHBDnGGnH09926sd+U/isSeMDP+Qa32m\nhHzScmDPsdyjdFsdXsJjZHe7mqCijGXu/LW4CoWoqln4y29c5BMJazwnIwegrLjJ\nQeW6InUhGZLy+uJbs1ZWxlqzOmMoTx2VVgoABdOHn/mQEC/AreUdvPMkVVYEuxel\nmAMOoefncx/EPxn7gY2SrEdmSnk9VuzR30KMC1qSw196QbQHR1G2vxKcXPwe/LH9\n7Pa0gwwqCaS2ggYt5Rvlxm7DeBIGHzGtPILnl1qyVGaqn64244JeLi9bY/O+E+uq\nBSgQmt2NwPK2RQgzzt/ETUXoOFHKiwS1v2Vp4H2PPDI8CzvlRralsQ==\n-----END RSA PRIVATE KEY-----",
-  "signingKeyPassphrase": "top_secret",
-  "supportEmail": "\"Medplum\" <support@medplum.com>",
-  "googleClientId": "397236612778-c0b5tnjv98frbo1tfuuha5vkme3cmq4s.apps.googleusercontent.com",
-  "googleClientSecret": "",
-  "recaptchaSiteKey": "6LfHdsYdAAAAAC0uLnnRrDrhcXnziiUwKd8VtLNq",
-  "recaptchaSecretKey": "6LfHdsYdAAAAAH9dN154jbJ3zpQife3xaiTvPChL",
+  "signingKeyId": "K2JY0IGGUN4NF8",
+  "signingKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFHDBOBgkqhkiG9w0BBQ0wQTApBgkqhkiG9w0BBQwwHAQIw4w0RjOkcxsCAggA\nMAwGCCqGSIb3DQIJBQAwFAYIKoZIhvcNAwcECLaPivY0ETmhBIIEyOB+KWkbV3v4\npEDEF5i75oWo9t6qSsedRFGn4D1sfDfjX/5UkF0T3sasvuwlQ0UEx61V0ozwZX09\nq6o3HyhgIH6GmYJ0NwnHbumCFh1oANEQ330OVKx06zy/uOKDUuF0dwISkalBFxRN\nmN4qTzg8tVkQG/T9f3IjDCYVxD1aabP7rDABOaatudMTpRWP+7TunGticjXeF0jJ\np5UVZWenteP4y3ENadoVahrGL7gYWJZaIqhggQ+o4EGWZL9y4ruIprXGibNq4Jrl\ndEde8atLS8xWk8HW1EyX6s0iqjnaV7cSb6/1PAyluUZQHpwgC/27tA3wUWGbkhhq\noxTdAb07sb6XUQ9NQhwfXqbiWbC2gSeHpOFsWzeFavOSTfYW0CvBKqT9ELr9GJwE\nSjy3F7ytLmypuuZfb97izH1ZP94jiowP2a3yxs4fd6vnjtwlXxODovPcBnN0rzqs\nrDp/6aogsWnDikjlsKlezRVPcHqr4f8bXxsxPQ7qdVhfV/cqo+cdCmb2b2hFMQwQ\nf6AltVqpLXmrJO/J5ypa1MovftRBIcnLhIxLOdlAC06BSd9ipBqz3CsrEVHHUswy\nLOC16b0rAf/5O9OZnMbNMLZkofLp85jdEiWz9uWZFpDo7P37nUbBlZGpAErfPQBW\n5ud7+bjgSScwcxUwxdMtFJp7njRXAjqhaZpnaKdOtnj08f4RUJu0WZqmSwEePIsF\nufxDjAIDz+A6KrGWo4EUfZHtqN8QG6ZFTXwEZ8RW7LxN/gHC+rSMIvpan2yUcGuR\nmHJ6rTecugkD3Nlmn8NdPPPke5rUWn51mBiCjc/dvORCnBKJBess4Deyj7C3GcsW\n8x3yPl4bOrnMwVYO0sAujLheZJT0k/PDcTJUiW7t8ncvK0uqx58aXq2UwqMLFLV6\ncVlk6OT1Gm0mF8/xDDsH+5xVg5UKs5U7K3DcIFEKNwLvDyG6rXLm2nsMIf584uNk\nFq6CACrSUDxyxEK9CVWdtRUDFokbokeZ2NG6GYDhI9FzuTN2OGuFwN/xOuSbjJ67\niI9HJKHb9y7XbAYQ6JDuDyTCg6NPv4Rpok8t0xuKFhNJgl+6q5c6h6OIaLhHXHeG\n18+UkHXLwv9cs9U3RJQa7SiEpgdvJioGGy8KXH6CrCNQVQMcbo3po9o0H+P/KjAv\nn5IWUzpZyumTZsExYV85xAkZsNi1zRDY8mtxeetHJQwNlfCD0YuEBm5EIRqu69hg\nAX5G8c+xgqqC1Ek4AppKYt6Q21dbIwLk1ZxsHM81a/P7kvZFvTBOFIS3WAiULHUw\nMQSz5kJn4eIEgycetVJtaWcjQF8bYWFvygTUVouV5TpSk7ZYxfxv+H52cK/uLLcZ\nvRrnbmGSS+ckFROTMEaR5Samt9LVjdmkci2vx7Dj7+hfnVofkQzh6QfMI9TuUNN5\nL7pay7JmDai9dIIC4RlYjpp8UmahquLAPce8FQHs9FuCV0nAJi05Hk4hKU7MoR9n\nA1bUDQ++qrWAw1W2IqdCAi2mdp2INrL37nXTmC4Iy4CJ4wxKfOrPUjdHOfCn+xJc\n32P64ReEazKRCb3Kal4vflcmNX1ZGWOe0kcIPPBu3q1sHpCIXnKK5M/PQtYNvnhT\nFT/72JmOrn6/r2mDVBBPlA==\n-----END ENCRYPTED PRIVATE KEY-----",
+  "signingKeyPassphrase": "test",
+  "supportEmail": "\"Medplum\" <support@grabmd.aws.msd3.io>",
+  "googleClientId": "212735332693-cq8180cpfac1f5poiealuvnn2b1odj6j.apps.googleusercontent.com",
+  "googleClientSecret": "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",
+  "recaptchaSiteKey": "6LcTCjYjAAAAANJ38sNDu6QTwTaj7KPyAdoJYz4t",
+  "recaptchaSecretKey": "6LcTCjYjAAAAAIoztn-jK7p-7GRvot1M8O_MeFH-",
   "adminClientId": "2a4b77f2-4d4e-43c6-9b01-330eb5ca772f",
   "maxJsonSize": "1mb",
   "maxUploadSize": "10mb",
@@ -36,4 +36,3 @@
     "password": "medplum"
   }
 }
-

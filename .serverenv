@@ -1,0 +1,5 @@
+export ECS_CLUSTER=MedplumGrabmdProdStack-BackEndCluster6B6DC4A8-aUTKy42JZsK8
+export ECS_SERVICE=MedplumGrabmdProdStack-BackEndFargateServiceD3B260C0-PHkBC7VgfA3D
+export ECR_REPOSITORY=935364155151.dkr.ecr.us-east-1.amazonaws.com/grab-medplum-server
+export GITHUB_SHA=c2e333ab307ccba5d89dd2ef6437218294feac6b
+export AWS_REGION=us-east-1
